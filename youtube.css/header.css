@@ -51,6 +51,10 @@ header {
     -webkit-font-smoothing: antialiased;
 }
 
+.search-bar:focus{
+    outline:0;
+}
+
 .search-icon{
     height: 24px;
 }
